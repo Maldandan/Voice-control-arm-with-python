@@ -50,6 +50,6 @@ to install it
 $ sudo apt-get install flac
 ```
 installation will take some time.
+and thats it!
 
-
-
+You can copy and run the python code provided, on your embedded computer.
