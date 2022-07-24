@@ -16,12 +16,14 @@ on the terminal, run
 ``` 
 $ python --version 
 ```
+
 if it doesnt show "python3"
 
 then install it using this,
 ```
 $ sudo update-alternatives--install/usr/bin/python python/usr/bin/python3 10
 ```
+
 
 then, install python IDLE
 ```
@@ -30,11 +32,13 @@ $ sudo apt install python 3 idle3
 this may take few seconds to install.
 
 
+
 installing required packages for speech recognition,
 ```
 $ pip install SpeechRecognition
 ```
 installing it may take few minutes
+
 now, its ready to recognize speech and convert it to text, except that python is not recognizing the microphone inputs.
 
 so, install the audio recognition package for python to recognize the microphone
